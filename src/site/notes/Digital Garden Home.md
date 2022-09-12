@@ -3,5 +3,9 @@
 ---
 
 # Welcome to My PF page!
-This is a test message
+My case: 
+
+
+Contention 1:
+
 [[AFF/Contentions/Economic Stimulation/High-Speed Rail Furthers Economic Justice|High-Speed Rail Furthers Economic Justice]]
