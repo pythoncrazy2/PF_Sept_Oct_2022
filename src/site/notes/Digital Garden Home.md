@@ -3,9 +3,5 @@
 ---
 
 # Welcome to My PF page!
-My case: 
-
-
-Contention 1:
-
-[[AFF/Contentions/Economic Stimulation/High-Speed Rail Furthers Economic Justice|High-Speed Rail Furthers Economic Justice]]
+My Aff case: 
+[[AFF/Aff Home|Aff Home]]
